@@ -1,4 +1,4 @@
-package jwtUtility
+package main
 
 import (
 	"crypto/hmac"
